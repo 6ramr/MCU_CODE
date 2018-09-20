@@ -1,0 +1,8 @@
+main.c:80:5:main	32	static
+main.c:184:6:SystemClock_Config	80	static
+main.c:230:13:MX_SPI1_Init	8	static
+main.c:258:13:MX_DMA_Init	16	static
+main.c:277:13:MX_GPIO_Init	40	static
+main.c:309:5:VerifySensorConfig	40	static
+main.c:319:5:WriteVerifySensorRegister	24	static
+main.c:336:6:_Error_Handler	16	static
