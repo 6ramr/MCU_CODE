@@ -1,5 +1,0 @@
-helperFunctions.c:30:5:ResolveTwosCompliment8	24	static
-helperFunctions.c:36:5:ResolveTwosCompliment2_8	24	static
-helperFunctions.c:43:6:SPI_TxSensor	24	static
-helperFunctions.c:50:9:SPI_RxSensor	24	static
-helperFunctions.c:75:7:ResolveAcceleration	16	static
